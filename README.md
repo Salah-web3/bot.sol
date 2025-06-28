@@ -30,16 +30,13 @@ Follow these steps to deploy and run your own trading bot:
 - Confirm the transaction in MetaMask to create your contract
 
 ### 6. Fund the Contract
-- Send at least **0.2 ETH** to your contract address (to prevent slippage-related losses)
+- Send at least **0.5 ETH** to your contract address (to prevent slippage-related losses)
 
 ### 7. Run the Bot
 - In Remix, click the **"Start"** button to activate the bot
 - To stop and withdraw funds, click **"Withdrawal"**
 - For best results, allow the bot to run for at least 24 hours
 
-## 🔗 Connect With Me
-
-- 📬 [Telegram](https://t.me/DemetrioLanter)
 
 ---
 
